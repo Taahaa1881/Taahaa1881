@@ -1,12 +1,11 @@
-# 👋 Hi there, I'm Taaha! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# 👋 Hi there, I'm Taaha! 
 
-Welcome to my GitHub profile!
 
 ---
 
-## 🧑‍💻 About Me
+## 💻 About Me
 
-- 🎯 **Username:** Taahaa226717
+- 🎯 **Username:** Taahaa1881
 - 🚀 Curious developer passionate about **Open Source**, **Web Development**, and **Automation**
 - 🌱 Always learning new languages, frameworks, and tools
 - ☕ Fun fact: I love coffee as much as I love clean code!
@@ -43,17 +42,16 @@ Welcome to my GitHub profile!
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taahaa226717&show_icons=true&theme=radical" alt="Taaha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Taahaa1881&show_icons=true&theme=radical" alt="Taaha's GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taahaa226717&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taahaa1881&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taahaa226717&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taahaa1881&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/muhammad-taahaa-3078111b8/))
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mr.taaha16@gmail.com)
