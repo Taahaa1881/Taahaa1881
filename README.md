@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Taaha 👋
+# Hi there, I'm Muhammad Taahaa 👋
 
 ## Who Am I?
 
@@ -41,18 +41,18 @@ I'm a Computer Science undergrad at FAST NUCES Lahore, always eager to explore t
 - Innovative software projects
 
 ## 📫 Find Me Here
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-taahaa-3078111b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-taahaa-3078111b8/)
 [![Email](https://img.shields.io/badge/Email-mr.taaha16@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.taaha16@gmail.com)
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taahaa1881&theme=default&hide_border=false&rank_icon=percentile&cache_seconds=1800" alt="Taaha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Taahaa1881&theme=dark&hide_border=false&rank_icon=percentile&cache_seconds=1800" alt="Taaha's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taahaa1881&theme=default&hide_border=false" alt="Taaha's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taahaa1881&theme=dark&hide_border=false" alt="Taaha's GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taahaa1881&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Taaha's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taahaa1881&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Taaha's top languages" />
 </p>
 
 ## ⚽ Fun Fact
