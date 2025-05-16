@@ -1,57 +1,71 @@
-# 👋 Hi there, I'm Taaha! 
+# Hi there, I'm Taaha Ahmad 👋
 
+## Who Am I?
 
----
+I'm a Computer Science undergrad at FAST NUCES Lahore, always eager to explore the latest in tech. Whether it's building scalable web apps, experimenting with AI algorithms, or solving real-world problems through code, I'm all about learning by doing. I thrive on collaboration, creativity, and the excitement that comes with tackling new challenges alongside passionate people.
 
-## 💻 About Me
+## 🚀 Current Journey
 
-- 🎯 **Username:** Taahaa1881
-- 🚀 Curious developer passionate about **Open Source**, **Web Development**, and **Automation**
-- 🌱 Always learning new languages, frameworks, and tools
-- ☕ Fun fact: I love coffee as much as I love clean code!
+- Immersed in my BS Computer Science at FAST NUCES Lahore
+- Exploring the frontiers of AI, machine learning, and intelligent systems
+- Actively searching for open-source communities
 
----
+## 🛠️ My Toolbox
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🛠️ Tech Stack
+## 🌱 Currently Exploring
+- Advanced AI/ML techniques and their real-world applications
+- Data Science, Analytics, and Big Data tools  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## 🤝 Looking to Collaborate On
+- Interactive web apps
+- AI/ML research or applications
+- Innovative software projects
 
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+## 📫 Find Me Here
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-taahaa-3078111b8/)
+[![Email](https://img.shields.io/badge/Email-mr.taaha16@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.taaha16@gmail.com)
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📈 GitHub Stats
-
+## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taahaa1881&show_icons=true&theme=radical" alt="Taaha's GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taahaa1881&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taahaa1881&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Taahaa1881&theme=default&hide_border=false&rank_icon=percentile&cache_seconds=1800" alt="Taaha's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taahaa1881&theme=default&hide_border=false" alt="Taaha's GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taahaa1881&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Taaha's top languages" />
 </p>
 
----
+## 🌟 Notable Projects
+<p align="center">
+  <a href="https://github.com/M-Taahaa-14/Xplore">
+    <img align="center" src="https://github.com/M-Taahaa-14/Xplore?username=M-Taahaa-14&repo=Xplore" />
+  </a>
+  <a href="https://github.com/M-Taahaa-14/Taaha-Hikes">
+    <img align="center" src="https://github.com/M-Taahaa-14/Taaha-Hikes?username=M-Taahaa-14&repo=Taaha Hikes" />
+  </a>
+</p>
 
-## 🌐 Connect with Me
+## ⚽ Fun Fact
+Just like Lamine Yamal weaving through defenders on the football pitch, I enjoy finding creative paths through complex problems—sometimes the best solution is an unexpected dribble past the obvious! Football reminds me that teamwork, vision, and a little bit of flair can change the game—on the field or in code.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammad-taahaa-3078111b8/])
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mr.taaha16@gmail.com)
+Let's connect, collaborate, and make an impact together!
