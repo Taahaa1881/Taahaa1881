@@ -1,4 +1,4 @@
-# Hi there, I'm Taaha Ahmad 👋
+# Hi there, I'm Muhammad Taaha 👋
 
 ## Who Am I?
 
@@ -53,16 +53,6 @@ I'm a Computer Science undergrad at FAST NUCES Lahore, always eager to explore t
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taahaa1881&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Taaha's top languages" />
-</p>
-
-## 🌟 Notable Projects
-<p align="center">
-  <a href="https://github.com/M-Taahaa-14/Xplore">
-    <img align="center" src="https://github.com/M-Taahaa-14/Xplore?username=M-Taahaa-14&repo=Xplore" />
-  </a>
-  <a href="https://github.com/M-Taahaa-14/Taaha-Hikes">
-    <img align="center" src="https://github.com/M-Taahaa-14/Taaha-Hikes?username=M-Taahaa-14&repo=Taaha Hikes" />
-  </a>
 </p>
 
 ## ⚽ Fun Fact
