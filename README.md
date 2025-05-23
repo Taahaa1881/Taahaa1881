@@ -51,9 +51,6 @@ I'm a Computer Science undergrad at FAST NUCES Lahore, always eager to explore t
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taahaa1881&theme=dark&hide_border=false" alt="Taaha's GitHub streak" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taahaa1881&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Taaha's top languages" />
-</p>
 
 ## ⚽ Fun Fact
 Just like Lamine Yamal weaving through defenders on the football pitch, I enjoy finding creative paths through complex problems—sometimes the best solution is an unexpected dribble past the obvious! Football reminds me that teamwork, vision, and a little bit of flair can change the game—on the field or in code.
