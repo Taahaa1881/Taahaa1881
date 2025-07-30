@@ -1,7 +1,5 @@
 # Hi there, I'm Muhammad Taahaa 👋
 
-## Who Am I?
-
 I'm a Computer Science undergrad at FAST NUCES Lahore, always eager to explore the latest in tech. Whether it's building scalable web apps, experimenting with AI algorithms, or solving real-world problems through code, I'm all about learning by doing. I thrive on collaboration, creativity, and the excitement that comes with tackling new challenges alongside passionate people.
 
 ## 🚀 Current Journey
@@ -48,9 +46,7 @@ I'm a Computer Science undergrad at FAST NUCES Lahore, always eager to explore t
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Taahaa1881&theme=dark&hide_border=false&rank_icon=percentile&cache_seconds=1800" alt="Taaha's GitHub stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taahaa1881&theme=dark&hide_border=false" alt="Taaha's GitHub streak" />
-</p>
+
 
 ## ⚽ Fun Fact
 Just like Lamine Yamal weaving through defenders on the football pitch, I enjoy finding creative paths through complex problems—sometimes the best solution is an unexpected dribble past the obvious! Football reminds me that teamwork, vision, and a little bit of flair can change the game—on the field or in code.
